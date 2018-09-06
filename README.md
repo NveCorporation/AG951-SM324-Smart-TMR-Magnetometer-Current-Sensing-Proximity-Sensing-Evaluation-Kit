@@ -24,4 +24,4 @@ Installation Instructions:
 
   5. Install FTDI drivers as instructed.
 	
-	Questions? Email us at sensor-apps@nve.com
+	Questions? We're here to help. E-mail us at sensor-apps[at]nve.com 
