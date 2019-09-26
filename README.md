@@ -4,24 +4,10 @@ User Interface Software for the AG951 Evaluation Kit
 Software system requirements:
 
 	• Windows 7 or later
-	
-	• 100 MB of system memory
-	
-	• One USB 2.0 port or powered USB hub (no self-powered hubs)
-	
-	• Monitor (minimum 800 pixels vertical)
+	• One USB 2.0 port
 
 Installation Instructions:
-  1. Download the software installation package Zip file.
+  1. Download and run setup.exe to install the software.
+  2. Click on the NVE desktop icon to launch the software.
 
-  2. Unzip the download and run setup.exe to begin installation.
-
-  3. Follow prompts for installing the NVE software application 
-     as well as any supporting National Instruments files.
-
-  4. Download the FTDI VCP and D2XX drivers in either zip or executable format from
-     http://www.ftdichip.com/Drivers/D2XX.htm.
-
-  5. Install FTDI drivers as instructed.
-	
 	Questions? We're here to help. E-mail us at sensor-apps[at]nve.com 
